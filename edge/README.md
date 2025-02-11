@@ -3,10 +3,7 @@
 ![alt text](image.png)
 
 
-## **1. Introduction**
-Edge detection is a fundamental operation in image processing that identifies significant transitions in intensity. The **Sobel operator** is widely used because it provides a good balance between edge detection accuracy and noise reduction.
-
-## **2. Steps for Sobel Edge Detection**
+## **Steps for Sobel Edge Detection**
 
 ### **Step 1: Read the Image and Apply a Smoothing Filter**
 Before detecting edges, the image is first smoothed to reduce noise. This is achieved by convolving the image with a Gaussian filter:

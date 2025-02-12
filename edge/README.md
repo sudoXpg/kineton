@@ -10,6 +10,7 @@ Before detecting edges, the image is first smoothed to reduce noise. This is ach
 
 ![alt text](image-1.png)
 
+![alt text](image-8.png)
 where:
 -  I(x,y) is the original image.
 
@@ -46,6 +47,7 @@ To classify pixels as edges or non-edges, a threshold \( T \) is applied:
 
 Choosing \( T \) can be done using:
 - **Otsu’s method** (adaptive thresholding)
+
 
 ### **Step 6: Repeat for All Pixels**
 The above steps are applied to every pixel in the image until all edges are detected.

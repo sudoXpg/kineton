@@ -57,7 +57,7 @@
 - **Intel RealSense** (Great for 3D perception, but struggles in low-light conditions).
 - **ABB AI Robotics** (Reliable industrial automation, but lacks flexibility in non-standard environments).
 
-## 4. Cybersecurity
+## 4. Big data Security
 ### **Market Overview**
 - AI-driven cybersecurity market valued at **$38.2 billion in 2023**, expected to grow rapidly.
 - Used for **threat detection, network monitoring, and autonomous response systems**.
